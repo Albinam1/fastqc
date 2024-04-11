@@ -1,2 +1,3 @@
 # fastqc
-some diagrams from the fastqc report on Python
+
+several diagrams from the fastqc report, implemented in Python
